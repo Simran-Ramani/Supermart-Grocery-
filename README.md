@@ -28,15 +28,17 @@ Python Data Cleaning and EDA
 Dependencies:
 
 pandas
+
 matplotlib
+
 seaborn
 
 pip install pandas matplotlib seaborn
-Run the script:
 
+Run the script:
 python data_preprocessing.py
 
-What it does:
+## What it does:
 
 Loads the CSV dataset.
 
@@ -75,6 +77,7 @@ Category selector
 
 ## Key Insights from Dashboard
 1. Sales by Category
+2. 
 Top-performing category: Eggs, Meat & Fish with ₹2,267K in sales.
 
 Second highest: Snacks at ₹2,238K.
@@ -84,6 +87,7 @@ Lowest sales category: Beverages at ₹2,085K.
 Observation: Sales across all categories are relatively balanced (₹2,000K – ₹2,300K).
 
 2. Monthly Sales and Profit Trends
+   
 Strong growth in later months, peaking in the last quarter.
 
 Profit remains lower compared to sales but follows a similar upward trend.
@@ -91,6 +95,7 @@ Profit remains lower compared to sales but follows a similar upward trend.
 Notable spike: Last quarter (Months 10–12), likely due to festive season or promotions.
 
 3. Profit by Sub-Category
+   
 Top sub-categories by profit:
 
 Health Drinks – ₹267K
@@ -108,6 +113,7 @@ Lowest profit items: Rice, Chicken, Organic Fruits, Fresh Vegetables.
 Observation: Packaged foods & beverages generate higher profits than staples.
 
 4. Geographic Sales Map
+   
 Sales concentrated in Southern India.
 
 8 locations missing geographic mapping.
@@ -115,6 +121,7 @@ Sales concentrated in Southern India.
 Opportunity: Expand sales in Central, North, and East regions.
 
 5. Discount vs Profit Analysis
+   
 Positive correlation between discount and profit – Higher discounts drive higher profits.
 
 Most transactions: 5–7% discount and ₹9K–₹13K profit.
@@ -124,6 +131,7 @@ High-profit outliers: 8–10% discount with profits ₹15K–₹18K.
 Observation: Discounts are boosting sales volume effectively.
 
 Overall Business Recommendations
+
 Increase discounts strategically during festive months to maximize profits.
 
 Focus on high-margin products like health drinks, soft drinks, and snacks.
@@ -144,7 +152,8 @@ Excel
 Python 
 
 Tableau
-Acknowledgments
+
+## Acknowledgments
 [Unified Mentor]
 
 Tableau Public
