@@ -14,7 +14,7 @@ Supermart-Analysis
   
   ├── README.md                       # Project documentation
   
-  └── /images                         # Screenshots of dashboard 
+  └── images                         # Screenshots of dashboard 
 
  ## Objectives
 Clean and preprocess raw sales data.
