@@ -52,11 +52,15 @@ Exports a cleaned dataset (cleaned_supermart_sales.csv) for Tableau.
 ## Tableau Dashboard
 Open the Tableau workbook (Supermart Dashboard.twb) to view:
 
-✅ Sales by Category
-✅ Monthly Sales and Profit Trends
-✅ Geographic Sales Map
-✅ Profit by Sub Category Treemap
-✅ Discount vs Profit Scatter Plot
+1. Sales by Category
+   
+2.Monthly Sales and Profit Trends
+
+3.Geographic Sales Map
+
+4. Profit by Sub Category Treemap
+   
+5.Discount vs Profit Scatter Plot
 
 Interactive Filters:
 
