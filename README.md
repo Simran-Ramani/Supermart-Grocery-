@@ -5,10 +5,15 @@ It uses Python for cleaning and exploratory analysis, and Tableau for creating a
 
 ## Project Structure
 Supermart-Analysis
+
   ├── data_preprocessing.py           # Python script for cleaning & EDA
+  
   ├── cleaned_supermart_sales.csv     # Cleaned dataset exported for Tableau
+  
   ├── Supermart Dashboard.twb         # Tableau workbook
+  
   ├── README.md                       # Project documentation
+  
   └── /images                         # Screenshots of dashboard (optional)
 
  ## Objectives
